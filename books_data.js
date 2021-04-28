@@ -1,4 +1,4 @@
-{
+var books = {
     "453941": [
         "Fundamentals of Wavelets",
         "Goswami, Jaideva",
@@ -559,4 +559,4 @@
         "Braithwaite",
         "fiction"
     ]
-}
+};
