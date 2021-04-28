@@ -22,7 +22,7 @@ function desk1(data){
     console.log("Desk 1: " + status);
     if (status == 1){
         var desk1 = document.getElementById('desk1');
-        desk1.className = 'table-success';
+        desk1.className = 'table-danger';
     }
     else if(status == 0){
         var desk1 = document.getElementById('desk1');
