@@ -2,6 +2,10 @@
     padding: 7% 15%;
   }
 
+.analytics-container{
+    padding: 7% 10%;
+  }
+
   .navbar-brand{
     font-size: 1.5rem;
     font-weight: bold;
